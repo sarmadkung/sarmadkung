@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Muhammad Sarmad from Paksitan
-- 👀 I’m interested in new techs and best approaches in mobile and web development. 
-- 🌱 I’m currently learning new techs and approaches for large scale businesses problam solutions.
+Hi,
+Muhammad Sarmad is a senior full-stack engineer (web and mobile) having strong(6+ years) expertise in ReactJS, React-Native, NodeJS, RestAPI, GraphQL, MongoDB, and many other related techs. 
+
+Rust is the tech that he has been using to build server apps often for 3+ years.
+
+He is very strong in solving complex problems using the above techs and is focused on learning new techs and the best future software development approaches.
+
+Higher education(M.phil) includes Machine Learning, Deep Learning, Mathematical problem solutions, and data science, with professional experience of 2 years.
 
 <!---
 sarmadkung/sarmadkung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
