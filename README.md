@@ -1,5 +1,5 @@
 Hi,
-Muhammad Sarmad is a senior full-stack engineer (web and mobile) having strong(6+ years) expertise in ReactJS, React-Native, NodeJS, RestAPI, GraphQL, MongoDB, and many other related techs. 
+✨ Muhammad Sarmad is a senior full-stack engineer (web and mobile) having strong(6+ years) expertise in ReactJS, React-Native, NodeJS, RestAPI, GraphQL, MongoDB, and many other related techs. 
 
 Rust is the tech that he has been using to build server apps often for 3+ years.
 
