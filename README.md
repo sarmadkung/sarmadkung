@@ -1,13 +1,8 @@
 Hi,
-✨ Muhammad Sarmad is a senior full-stack engineer (web and mobile) having strong(6+ years) expertise in ReactJS, React-Native, NodeJS, RestAPI, GraphQL, MongoDB, and many other related techs. 
+✨ I am Muhammad Sarmad the CEO @remoteline and Senior Software Engineer at MC2 Finance. I hold a master's degree in computer science from the University of Gujrat, where I studied advanced software development, machine learning, and data science.
 
-Rust is the tech that he has been using to build server apps often for 3+ years.
-
-He is very strong in solving complex problems using the above techs and is focused on learning new techs and the best future software development approaches.
-
-Higher education(M.phil) includes Machine Learning, Deep Learning, Mathematical problem solutions, and data science, with professional experience of 2 years.
-
-You con contact him at `muhammadsaramd24@gmail.com`.
+With over six (6) years of experience, I am a proficient full-stack developer, working with web, mobile, and server technologies, such as React, React Native, Flutter, Node, Go, Rust, RestAPI, GraphQL, MongoDB and Postgres.
+You can contact me at `muhammadsaramd24@gmail.com`.
 
 <!---
 sarmadkung/sarmadkung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
