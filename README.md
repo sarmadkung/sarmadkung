@@ -1,5 +1,5 @@
 Hi,
-✨ I am Muhammad Sarmad the CEO @remoteline and Senior Software Engineer at MC2 Finance. I hold a master's degree in computer science from the University of Gujrat, where I studied advanced software development, machine learning, and data science.
+✨ I am Muhammad Sarmad the CEO @remoteline and full-stack software engineer with a Master's in Computer Science, specializing in full-stack development. With expertise in React, React Native, Node.js, Go, Rust, and more, I build high-performance, scalable applications for web, mobile, and backend platforms.
 
 With over six (6) years of experience, I am a proficient full-stack developer, working with web, mobile, and server technologies, such as React, React Native, Flutter, Node, Go, Rust, RestAPI, GraphQL, MongoDB and Postgres.
 You can contact me at `muhammadsaramd24@gmail.com`.
