@@ -1,5 +1,4 @@
-Hi,
-✨ I am Muhammad Sarmad the CEO @remoteline and full-stack software engineer with a Master's in Computer Science, specializing in full-stack development. With 7+ years of expertise in React, React Native, Node.js, Go, Rust, and more, I build high-performance, scalable applications for web, mobile, and backend platforms.
+✨ Muhammad Sarmad, CEO at Remoteline, is a full-stack software engineer with a Master's in Computer Science. With 7+ years of experience in React, React Native, Node.js, Go, and Rust, he specializes in building scalable, high-performance applications across web, mobile, and backend platforms.
 
 **🌴 Services and Expertise**
  * Full-stack web and mobile application development using React and React Native.
