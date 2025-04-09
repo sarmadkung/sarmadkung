@@ -1,28 +1,81 @@
-✨ Muhammad Sarmad, CEO at Remoteline, is a full-stack software engineer with a Master's in Computer Science. With 7+ years of experience in React, React Native, Node.js, Go, and Rust, he specializes in building scalable, high-performance applications across web, mobile, and backend platforms.
 
-**🌴 Services and Expertise**
- * Full-stack web and mobile application development using React and React Native.
- * Backend architecture design and API development with Node.js, Go, and Rust.
- * Comprehensive database solutions using MongoDB and Postgres.
- * Scalable and efficient CI/CD pipelines with Docker and GitHub Actions
 
-**🌴 Why Choose Me**
-- Proven experience in delivering high-quality, scalable applications.
-- Deep knowledge across frontend, backend, and databases.
-- Strong problem-solving skills and dedication to clean, maintainable code.
-- Commitment to meeting deadlines and exceeding client expectations.
-- Expertise in modern development tools and practices for seamless collaboration.
+---
 
-**🌴 What You Can Expect**
-- Timely and transparent communication throughout the project.
-- Well-documented, clean, and maintainable code that follows best practices.
-- Scalable and high-performance applications designed for growth.
-- Strategic planning and development to meet your long-term business goals.
-- Proactive problem-solving and attention to detail.
+# Muhammad Sarmad 👨‍💻 | CEO @ TrueLogics 💼
 
-You can contact me at muhammadsaramd24@gmail.com.
+I’m **Muhammad Sarmad**, a passionate full-stack software engineer with over 7 years of experience 🌟 in developing high-performance, scalable applications. I specialize in creating innovative solutions across web, mobile, and backend platforms, focusing on performance, maintainability, and user experience.
 
-<!---
-sarmadkung/sarmadkung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 🌍
+
+As the CEO at **TrueLogics**, a software house I founded, I lead a team of talented engineers 🧑‍💻 to build cutting-edge applications that solve real-world problems. I have expertise in a wide array of technologies, including **React** ⚛️, **React Native** 📱, **Node.js** 🌐, **Go** 🦘, **Rust** 🦀, and many more.
+
+### Education 🎓
+
+- **Master’s in Computer Science (MS)** 🧑‍🎓
+- **Bachelor’s in Computer Science (BS)** 🧑‍🎓
+
+My journey in software development began in university, and it has been a continuous learning path ever since. I’m always on the lookout for the next big challenge and technology to dive into!
+
+### Professional Experience 💼
+
+- **CEO & Full-Stack Engineer** @ **TrueLogics**  
+   Leading a team to build scalable and innovative solutions for clients worldwide. Focused on web, mobile, and backend development.
+
+- **Pivot** 🚀  
+   Architected and led the development of a collaborative platform that includes real-time chat, audio/video communication, online multiplayer boards, and more. Pivot is one of the most exciting projects I’ve worked on!
+
+- **MC² Finance** 💰  
+   Developed a platform to track and analyze token strategies, providing live competition and performance data analysis.
+
+### Key Skills 🛠️
+
+- **Frontend:** React ⚛️, React Native 📱, Vue.js, Next.js, Typescript
+- **Backend:** Node.js 🌐, Go 🦘, Rust 🦀, gRPC, GraphQL
+- **Database:** MongoDB, PostgreSQL
+- **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions
+- **Software Architecture:** Microservices, Scalable Systems, Performance Optimization
+- **Leadership:** Team Management, Product Strategy, Client Relations
+
+### My Approach 🚀
+
+I believe in building software that not only solves problems but delights users. My goal is to create products that are both technically excellent and user-friendly. As a leader, I focus on empowering my team to innovate, learn, and grow in a collaborative environment.
+
+## Current Focus 🔍
+
+Right now, I am focused on growing **TrueLogics**, expanding our team, and pushing the boundaries of what’s possible with the latest technologies. Whether it's building real-time communication platforms, scalable backend systems, or mobile-first applications, I'm all about creating impactful software that makes a difference.
+
+---
+
+## Projects 📂
+
+Here are a few projects I’ve worked on:
+
+- **[TrueLogics](https://github.com/TrueLogics)** – Our software house repository for building scalable applications with cutting-edge technologies.
+- **[Pivot](https://github.com/Pivot-Project)** – A collaborative platform with real-time communication, multiplayer features, and document management.
+- **[MC² Finance](https://github.com/MC2-Finance)** – A platform for creating and analyzing token strategies with live performance data.
+- **[Alpha App](https://github.com/Alpha-App)** – A web application for monitoring competition, strategies, and performance data.
+- **[App-hub](https://github.com/App-hub)** – A web application for strategy creation and token distribution.
+
+## Technologies I Love 💡
+
+- **Frontend**: React, React Native, Vue.js, Next.js
+- **Backend**: Node.js, Go, Rust, gRPC, GraphQL
+- **DevOps**: Docker, Kubernetes, AWS
+- **Database**: MongoDB, PostgreSQL
+- **Testing & CI/CD**: Jest, GitHub Actions, Cypress
+
+## How to Reach Me 📧
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-sarmad/)
+- [Twitter](https://twitter.com/muhammad_sarmad)
+- [Email](mailto:muhammad.sarmad@example.com)
+
+Feel free to connect with me! I’m always open to discussions about technology, software architecture, and any exciting opportunities!
+
+---
+
+## Fun Fact 🎉
+
+When I’m not coding, you can find me exploring new tech trends, reading about the latest in AI and blockchain, or trying out some new fitness routines 🏃‍♂️💪. I believe in a balance between work and life!
+
