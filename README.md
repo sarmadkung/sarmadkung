@@ -47,16 +47,6 @@ Right now, I am focused on growing **TrueLogics**, expanding our team, and pushi
 
 ---
 
-## Projects 📂
-
-Here are a few projects I’ve worked on:
-
-- **[TrueLogics](https://github.com/TrueLogics)** – Our software house repository for building scalable applications with cutting-edge technologies.
-- **[Pivot](https://github.com/Pivot-Project)** – A collaborative platform with real-time communication, multiplayer features, and document management.
-- **[MC² Finance](https://github.com/MC2-Finance)** – A platform for creating and analyzing token strategies with live performance data.
-- **[Alpha App](https://github.com/Alpha-App)** – A web application for monitoring competition, strategies, and performance data.
-- **[App-hub](https://github.com/App-hub)** – A web application for strategy creation and token distribution.
-
 ## Technologies I Love 💡
 
 - **Frontend**: React, React Native, Vue.js, Next.js
@@ -68,12 +58,20 @@ Here are a few projects I’ve worked on:
 ## How to Reach Me 📧
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sarmad/)
-- [Twitter](https://twitter.com/muhammad_sarmad)
-- [Email](mailto:muhammad.sarmad@example.com)
+- [Email](mailto:muhammadsarmad24@gmail.com)
+- [TrueLogics](mailto:ceo@truelogics.io)
 
 Feel free to connect with me! I’m always open to discussions about technology, software architecture, and any exciting opportunities!
 
 ---
+
+## Islamic Knowledge & Awareness Journey 🕋
+
+ Memorizing the Quran with understanding and translation, studying Islamic history, and staying informed about current events impacting Islamic teachings and the Muslim ummah
+
+## Hobbies 🌱
+
+history, and tourism.
 
 ## Fun Fact 🎉
 
