@@ -2,7 +2,7 @@
 
 ---
 
-# Muhammad Sarmad 👨‍💻 | CEO @ TrueLogics 💼
+# Senior Full-Stack Engineer (React | React Native | Node.js | Rust | Go) | Founder @ TrueLogics | AI • Blockchain
 
 I’m **Muhammad Sarmad**, a passionate full-stack software engineer with over 7 years of experience 🌟 in developing high-performance, scalable applications. I specialize in creating innovative solutions across web, mobile, and backend platforms, focusing on performance, maintainability, and user experience.
 
