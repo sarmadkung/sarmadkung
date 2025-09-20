@@ -22,6 +22,7 @@ My journey in software development began in university, and it has been a contin
 - **Frontend:** React ⚛️, React Native 📱, Vue.js, Next.js, Typescript
 - **Backend:** Node.js 🌐, Go 🦘, Rust 🦀, gRPC, GraphQL
 - **Database:** MongoDB, PostgreSQL
+- **Blockchain:** web3, solana, ethereum
 - **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions
 - **Software Architecture:** Microservices, Scalable Systems, Performance Optimization
 - **Leadership:** Team Management, Product Strategy, Client Relations
