@@ -31,11 +31,6 @@ My journey in software development began in university, and it has been a contin
 
 I believe in building software that not only solves problems but delights users. My goal is to create products that are both technically excellent and user-friendly. As a leader, I focus on empowering my team to innovate, learn, and grow in a collaborative environment.
 
-## Current Focus 🔍
-
-Right now, I am focused on growing **TrueLogics**, expanding our team, and pushing the boundaries of what’s possible with the latest technologies. Whether it's building real-time communication platforms, scalable backend systems, or mobile-first applications, I'm all about creating impactful software that makes a difference.
-
----
 
 ## Technologies I Love 💡
 
@@ -49,15 +44,8 @@ Right now, I am focused on growing **TrueLogics**, expanding our team, and pushi
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sarmad/)
 - [Email](mailto:muhammadsarmad24@gmail.com)
-- [TrueLogics](mailto:ceo@truelogics.io)
 
 Feel free to connect with me! I’m always open to discussions about technology, software architecture, and any exciting opportunities!
-
----
-
-## Islamic Knowledge & Awareness Journey 🕋
-
- Memorizing the Quran with understanding and translation, studying Islamic history, and staying informed about current events impacting Islamic teachings and the Muslim ummah
 
 ## Hobbies 🌱
 
