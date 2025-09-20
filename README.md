@@ -31,15 +31,6 @@ My journey in software development began in university, and it has been a contin
 
 I believe in building software that not only solves problems but delights users. My goal is to create products that are both technically excellent and user-friendly. As a leader, I focus on empowering my team to innovate, learn, and grow in a collaborative environment.
 
-
-## Technologies I Love 💡
-
-- **Frontend**: React, React Native, Vue.js, Next.js
-- **Backend**: Node.js, Go, Rust, gRPC, GraphQL
-- **DevOps**: Docker, Kubernetes, AWS
-- **Database**: MongoDB, PostgreSQL
-- **Testing & CI/CD**: Jest, GitHub Actions, Cypress
-
 ## How to Reach Me 📧
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sarmad/)
