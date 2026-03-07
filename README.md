@@ -1,48 +1,41 @@
+# Hi, I'm Muhammad Sarmad
 
+### Full-Stack & AI Engineer
 
-# Muhammad Sarmad
-## Senior Full-Stack Engineer (React | React Native | Node.js | Rust | Go) | Founder @ TrueLogics | AI • Blockchain
-⚡ I build software with impact — fast, reliable, and built to scale.
+**8+ years** building scalable web, mobile & backend · Shipping **AI-powered products** and **agentic systems**.
 
-Full-Stack Software Engineer & Entrepreneur with 7+ years of experience building scalable web, mobile, and backend platforms. Currently CEO at TrueLogics, where I lead teams delivering SaaS, FinTech, HealthTech, and EduTech solutions for startups and enterprises.
+> Full-stack meets AI — building software that thinks and scales.
 
-💡 Skilled in React, React Native, Next.js, Node.js, Go, Rust, GraphQL, Postgres, MongoDB, Redis, AWS, Docker, and Kubernetes. Experienced in real-time collaboration and blockchain.
+---
 
-🤝 I bring a blend of technical depth, product ownership, and business strategy, ensuring products are resilient, maintainable, and built to scale. Open to connecting with recruiters, founders, and innovators in SaaS, FinTech, HealthTech, EduTech, and AI.
+### What I do
 
-### Education 🎓
+- **AI / ML:** LLMs, OpenAI, RAG, LangChain, agentic development
+- **Frontend:** React, React Native, Vue.js, TypeScript
+- **Backend:** Node.js, Go, Rust, Python, FastAPI
+- **Data & infra:** PostgreSQL, MongoDB, Docker, AWS, GitHub Actions
+- **Also:** Web3 & Solana, GraphQL, tRPC, microservices
 
-- **Master’s in Computer Science (MS)** 🧑‍🎓
-- **Bachelor’s in Computer Science (BS)** 🧑‍🎓
+---
 
-My journey in software development began in university, and it has been a continuous learning path ever since. I’m always on the lookout for the next big challenge and technology to dive into!
+### By the numbers
 
-### Key Skills 🛠️
+| 30+ Projects | 20+ Clients | 8+ Years |
+|:------------:|:-----------:|:--------:|
 
-- **Frontend:** React ⚛️, React Native 📱, Vue.js, Next.js, Typescript
-- **Backend:** Node.js 🌐, Go 🦘, Rust 🦀, gRPC, GraphQL
-- **Database:** MongoDB, PostgreSQL
-- **Blockchain:** web3, solana, ethereum
-- **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions
-- **Software Architecture:** Microservices, Scalable Systems, Performance Optimization
-- **Leadership:** Team Management, Product Strategy, Client Relations
+---
 
-### My Approach 🚀
+### Where I've worked
 
-I believe in building software that not only solves problems but delights users. My goal is to create products that are both technically excellent and user-friendly. As a leader, I focus on empowering my team to innovate, learn, and grow in a collaborative environment.
+- **AI Engineer** @ StudioX AI (2025 – Present)
+- **Senior Full-Stack Engineer** @ Meridian University, MC² Finance, Bridge Nine, boomrng & others
 
-## How to Reach Me 📧
+---
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-sarmad/)
-- [Email](mailto:muhammadsarmad24@gmail.com)
+### Get in touch
 
-Feel free to connect with me! I’m always open to discussions about technology, software architecture, and any exciting opportunities!
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsarmad.com-16a34a?style=flat-square)](https://muhammadsarmad.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Sarmad-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammadsarmad-dev)  
+[![Calendly](https://img.shields.io/badge/Book_a_call-Calendly-16a34a?style=flat-square)](https://calendly.com/muhammad_sarmad/meeting-with-muhammmad-sarmad)
 
-## Hobbies 🌱
-
-history, and tourism.
-
-## Fun Fact 🎉
-
-When I’m not coding, you can find me exploring new tech trends, reading about the latest in AI and blockchain, or trying out some new fitness routines 🏃‍♂️💪. I believe in a balance between work and life!
-
+**Open to new opportunities and interesting projects.**
