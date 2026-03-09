@@ -20,11 +20,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarmadkung&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadkung&theme=dark&hide_border=true)](https://github.com/sarmadkung)
 
-<img src="https://streak-stats.demolab.com/?user=sarmadkung&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadkung&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
+[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs?username=sarmadkung&layout=compact&theme=dark&hide_border=true)](https://github.com/sarmadkung)
 
 </div>
 
@@ -72,35 +70,6 @@
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
----
-
-## 📈 By the Numbers
-
-<table>
-  <tr>
-    <td align="center"><b>30+</b></td>
-    <td align="center"><b>20+</b></td>
-    <td align="center"><b>8+</b></td>
-  </tr>
-  <tr>
-    <td align="center">Projects</td>
-    <td align="center">Clients</td>
-    <td align="center">Years Experience</td>
-  </tr>
-</table>
-
----
-
-## 💼 Where I've Worked
-
-| Role | Company | Period |
-|------|---------|--------|
-| **AI Engineer** | StudioX AI | 2025 – Present |
-| **Senior Full-Stack Engineer** | Meridian University (USA) | 2022 – 2025 |
-| **Senior Full-Stack Engineer** | MC² Finance (Switzerland) | 2023 – 2025 |
-| **Senior Full-Stack Engineer** | Bridge Nine (Finland) | 2022 – 2024 |
-| **Senior Full-Stack Engineer** | boomrng (USA) | — |
 
 ---
 
