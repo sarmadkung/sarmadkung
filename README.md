@@ -14,7 +14,7 @@
 
 </div>
 
----
+</br>
 
 ## 📊 GitHub Stats
 
@@ -22,15 +22,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sarmadkung&theme=dark&hide_border=true)](https://github.com/sarmadkung)
 
-<!-- Top langs: GitHub counts bytes/lines per repo — huge JS bundles or committed build output skew toward JavaScript.
-     `size_weight` + `count_weight` blend file-count vs size. Add `&exclude_repo=repo-name` for outliers (comma-separated, no spaces). -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadkung&layout=compact&theme=dark&hide_border=true&langs_count=8&size_weight=0.35&count_weight=0.65)](https://github.com/sarmadkung)
-
-<sub>These % are GitHub’s language <strong>bytes/lines across public repos</strong> (not hours coding). Big JS bundles or committed <code>dist/</code> inflate JavaScript — use <code>exclude_repo</code> in the URL above or <a href="https://github.com/github-linguist/linguist/blob/master/docs/overrides.md"><code>.gitattributes</code></a> to mark generated folders as vendored.</sub>
 
 </div>
 
----
+<br/>
 
 ## 🛠️ Languages & Technologies
 
@@ -78,7 +74,7 @@
 ![NFT](https://img.shields.io/badge/NFT-FF6B35?style=for-the-badge&logo=opensea&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-6366F1?style=for-the-badge&logo=ethereum&logoColor=white)
 
----
+<br/>
 
 ## 📫 Get in Touch
 
