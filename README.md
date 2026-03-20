@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Muhammad Sarmad
 
-### Full-Stack & AI Engineer
+### Full-Stack, AI & Web3 Engineer
 
-**8+ years** building scalable web, mobile & backend · Shipping **AI-powered products** and **agentic systems**
+**8+ years** building scalable web, mobile & backend · **AI-powered products** & **agentic systems** · **Blockchain, DeFi & Solana**
 
-*Full-stack meets AI — building software that thinks and scales.*
+*Full-stack, AI & Web3 — intelligent apps, agents, and on-chain products that scale.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammadsarmad.com-16a34a?style=for-the-badge)](https://muhammadsarmad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsarmad-dev)
